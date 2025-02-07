@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.docker.com/" target="blank"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" height="60" alt="Docker logo" /></a>
+  <a href="https://docs.docker.com/" target="blank"><img src="https://www.docker.com/app/uploads/2023/08/logo-guide-logos-2.svg" height="60" alt="Docker logo" /></a>
   <a href="https://github.com/features/actions" target="blank"><img src="https://avatars.githubusercontent.com/u/44036562" height="60" alt="GitHub Actions logo" /></a>
 </p>
 
